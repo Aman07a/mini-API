@@ -1,2 +1,2 @@
 # mini-API
-This is my API
+This is my test API
